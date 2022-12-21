@@ -22,9 +22,8 @@
 	</suiteXmlFiles>
     </configuration>
    </plugin>
+</plugins>
 
-
-  	</plugins>
   	</pluginManagement>
   	</build>  
   <dependencies>

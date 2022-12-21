@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-21T15:21:21 IST" name="Suite" finished-at="2022-12-21T15:21:21 IST" duration-ms="143">
+  <suite started-at="2022-12-21T15:47:32 IST" name="Default suite" finished-at="2022-12-21T15:47:32 IST" duration-ms="88">
     <groups>
     </groups>
-    <test started-at="2022-12-21T15:21:21 IST" name="Test" finished-at="2022-12-21T15:21:21 IST" duration-ms="143">
-      <class name="practice_Jenkins.Practice1">
-        <test-method signature="test1()[pri:0, instance:practice_Jenkins.Practice1@503d687a]" started-at="2022-12-21T15:21:21 IST" name="test1" finished-at="2022-12-21T15:21:21 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- practice_Jenkins.Practice1 -->
-      <class name="practice_Jenkins.Practice">
-        <test-method signature="test()[pri:0, instance:practice_Jenkins.Practice@62e7f11d]" started-at="2022-12-21T15:21:21 IST" name="test" finished-at="2022-12-21T15:21:21 IST" duration-ms="24" status="PASS">
+    <test started-at="2022-12-21T15:47:32 IST" name="Default test" finished-at="2022-12-21T15:47:32 IST" duration-ms="88">
+      <class name="practice_Jenkins.Practice_Test">
+        <test-method signature="test()[pri:0, instance:practice_Jenkins.Practice_Test@4da4253]" started-at="2022-12-21T15:47:32 IST" name="test" finished-at="2022-12-21T15:47:32 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- practice_Jenkins.Practice -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- practice_Jenkins.Practice_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
